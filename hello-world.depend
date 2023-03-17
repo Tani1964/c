@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678978824 source:c:\users\toshiba\desktop\projects\c programming\hello-world\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
